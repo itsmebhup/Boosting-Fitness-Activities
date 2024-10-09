@@ -1,2 +1,2 @@
-This project helps motivate users to stay active by offering personalized workout plans, tracking progress, and providing community support. It includes features like setting goals, exercise suggestions, tracking activities, and social challenges to encourage a healthy and active lifestyle.
+This project helps users stay active by providing personalized workout plans, tracking their fitness progress, and offering community support. Key features include goal setting, exercise suggestions, activity tracking, and social challenges. It encourages a healthier, more active lifestyle by making fitness fun and engaging.
 
